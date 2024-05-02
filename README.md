@@ -5,7 +5,13 @@
 
 - 🔭 I’m currently working on **Devops / Architecture**
 
-- 🌱 I’m currently learning **AWS, Blockchain and Js**
+### My Stats
+
+<p>
+<a href="https://github.com/vinniimiranda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-oliveira-silva&show_icons=true&theme=dark" />
+</a>
+</p>
 
 - 💬 Ask me about **devops, python, pipelines and scripts**
 
